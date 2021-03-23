@@ -1,0 +1,23 @@
+.ortala {
+    text-align: center;
+}
+
+h3 {
+    color: #903749;
+}
+
+h2 {
+    color: #53354a;
+}
+
+h1 {
+    color: #e84545;
+}
+
+li {
+    list-style-position: inside;
+}
+
+.tl {
+    font-weight: bold;
+}
